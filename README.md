@@ -25,5 +25,8 @@ J'ai créé les wireframes ainsi que les maquettes de l'intégralité du site en
 
 [AFPA maquettes](maquettes.md)
 
+## Pour consulter Invision
 
+[Invision AFPA Presse](https://invis.io/VMP9ONOA9TD) (ce lien redirige sur le site d'Invision)
+ 
 
